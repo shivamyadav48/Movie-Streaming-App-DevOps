@@ -1,4 +1,4 @@
-name: sonarqube-server
+name: sonarqubeserver
 
 on:
   push:
